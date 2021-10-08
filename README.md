@@ -4,6 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizanascimento1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizanascimento1996&langs_count=7&theme=tokyonight "/>
 </div>
+<img height="30" width="60" src="https://www.codewars.com/users/luizanascimento1996/badges/large" />
   
  #
   
