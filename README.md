@@ -1,5 +1,5 @@
 # 👩🏻‍💻  Hello, I'm Luiza Nascimento 
-<img height="500em"  width="200em" align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/>
+<img height="300em"  width="200em" align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/>
 
 -  💻  Junior Backend Developer at [Start Consig](https://startconsig.com.br/)
 -  📚  Currently focused on getting the Oracle Certified Associate, Java SE 8 Programmer Certification and learning Springboot
