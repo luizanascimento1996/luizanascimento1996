@@ -1,4 +1,4 @@
-# 👩🏻‍💻  Hello, I'm Luiza Nascimento 
+#  Hello! 👩🏻‍💻 I'm Luiza Nascimento 
 
 -  💻  Junior Backend Developer at [Start Consig](https://startconsig.com.br/)
 -  📚  Currently focused on getting the Oracle Certified Associate, Java SE 8 Programmer Certification and learning Springboot
@@ -56,7 +56,7 @@
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  
  </div>
- <br> <br>
+ <br>
  
  # ♟ Other
  
