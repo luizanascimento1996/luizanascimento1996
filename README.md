@@ -2,49 +2,36 @@
 
 <br>
 
--  💻  Junior Backend Developer at [@Sensedia]((https://www.sensedia.com.br/)
+-  💻  Junior Backend Developer at [@Sensedia](https://www.sensedia.com.br/)
 -  📚  Currently focused on getting the Oracle Certified Associate, Java SE 8 Programmer Certification and learning Springboot
 
 <br>
 
-<div align="right"><a href=""/></div>
+<div align="left"><a href=""/></div>
 
- <div align="center">
+ <div align="left">
   <a href="https://github.com/luizanascimentoesilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizanascimentoesilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizanascimentoesilva&langs_count=7&theme=tokyonight&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizanascimentoesilva&show_icons=true&theme=blueberry"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizanascimentoesilva&langs_count=7&theme=blueberry&layout=compact"/>
 </div>
 
 <br><br>
  
- #  💾 Tech Stack 
+ # 🖥️ Tech Stack 
  
  <br>
  
- <div align="center">
+ <div align="left">
   
- ### Languages
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-     
- ### Frameworks, Platforms and Libraries
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-   
- ### IDEs/Editors
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
- ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
- 
- ### Version Control
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
  
  ### Database
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
